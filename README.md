@@ -2,8 +2,8 @@
 ### Python Developer, Data Analyst and an thinking introvert :grin:
 <!--
 **dev-sandarbh/dev-sandarbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ... Python and Data Analysis Skills
 - 🌱 I’m currently learning ... SQL, R, MS-Excel and Tableau
