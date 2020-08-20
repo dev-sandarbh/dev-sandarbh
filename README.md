@@ -1,5 +1,5 @@
 ### Hi there, I'm Sandarbh Tiwari. 👋
-### Python Developer, Data Analyst and an thinking introvert :grin:
+### Python Developer, Data Analyst and A Thinking Introvert :grin:
 <!--
 **dev-sandarbh/dev-sandarbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
