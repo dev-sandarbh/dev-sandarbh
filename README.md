@@ -8,7 +8,7 @@ Here are some ideas to get you started:-->
 - 🔭 I’m currently working on ... Python and Data Analysis Skills
 - 🌱 I’m currently learning ... SQL, R, MS-Excel and Tableau
 - 👯 I’m looking to collaborate on ... Python and Data Analysis Projects
-- 🤔 I’m looking for help with ... R
+- 🤔 I’m looking for help with ... R, Flask
 - 💬 Ask me about ... Anything from technical stuff to politics to foreign relations
 - 📫 How to reach me: ... myLinkedIn
 - 😄 Pronouns: ... me/him/he
