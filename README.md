@@ -10,6 +10,5 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on ... Python and Data Analysis Projects
 - 🤔 I’m looking for help with ... R, Flask
 - 💬 Ask me about ... Anything from technical stuff to politics to foreign relations
-- 📫 How to reach me: ... myLinkedIn
-- 😄 Pronouns: ... me/him/he
 - ⚡ Fun fact: ... I'm a thinking intrivert who loves to sit on his couch and work on his skills and read about foreign relations and politics in leisure time....
+
