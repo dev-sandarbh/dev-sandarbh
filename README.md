@@ -1,7 +1,7 @@
-<img src="https://github.com/dev-sandarbh/dev-sandarbh/blob/master/hi-tumble-git.gif">
 ### Hi there, I'm Sandarbh Tiwari. 👋
 ### Python Developer, Data Analyst and A Thinking Introvert :grin:
 <!--
+<img src="https://github.com/dev-sandarbh/dev-sandarbh/blob/master/hi-tumble-git.gif">
 **dev-sandarbh/dev-sandarbh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
