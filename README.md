@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/ersandarbhtiwari2603" target="_blank" rel="nofollow"><img align="right" alt="My LinkdeIn" width="22px" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" /></a>
+<a href="https://www.kaggle.com/sandarbhtiwari" target="_blank" rel="nofollow"><img align="right" alt="My Kaggle Profile" width="22px" src="https://unpkg.com/simple-icons@v4/icons/kaggle.svg" /></a><a href="https://www.linkedin.com/in/ersandarbhtiwari2603" target="_blank" rel="nofollow"><img align="right" alt="My LinkdeIn" width="22px" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" /></a>
 ### Hi there, I'm Sandarbh Tiwari. 👋
 ### Python Developer, Data Analyst and A Thinking Introvert
 
@@ -26,13 +26,15 @@
 
 #### :computer: Languages and Tools
 <p>
-  <code><img alt="Python" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/python.svg" /></code>
-  <code><img alt="Django" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/django.svg" /></code>
-  <code><img alt="Flask" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/flask.svg" /></code>
-  <code><img alt="HTML5" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/html.svg" /></code>
-  <code><img alt="CSS3" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/css.svg" /></code>
-  <code><img alt="BootStrap" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/bootstrap.svg" /></code>
-  <code><img alt="Jupyter Notebook" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/jupyter.svg" /></code>
-  <code><img alt="MySql" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/mysql.svg" /></code>
-  <code><img alt="PostreSql" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/postgresql.svg" /></code>
+  <span><img alt="Python" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/python.svg" /></span>
+  <span><img alt="Numpy" width="50px" height="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/numpy.svg" /></span>
+  <span><img alt="Pandas" width="50px" height="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/pandas.svg" /></span>
+  <span><img alt="matplotlib" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/matplotlib.svg" /></span>
+  <span><img alt="Seaborn" width="50px" height="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/seaborn.svg" /></span>
+  <span><img alt="MS-Excel" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/excel.svg" /></span>
+  <span><img alt="Jupyter Notebook" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/jupyter.svg" /></span>
+  <span><img alt="MySql" width="50px" height="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/mysql.svg" /></span>
+  <span><img alt="PostreSql" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/postgresql.svg" /></span>
+  <span><img alt="Django" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/django.svg" /></span>
+  <span><img alt="Flask" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/flask.svg" /></span>
 </p>
