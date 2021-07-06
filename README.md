@@ -2,10 +2,10 @@
 ### Hi there, I'm Sandarbh Tiwari. 👋
 ### Python Developer, Data Analyst and A Thinking Introvert
 
-- 🔭 I’m currently working on ... Python and Data Analysis Skills
-- 🌱 I’m currently learning ... SQL, R, MS-Excel
-- 👯 I’m looking to collaborate on ... Python and Data Analysis Projects
-- ⚡ Fun fact: ... I'm a thinking intrivert who loves to sit on his couch and work on his skills and read about foreign relations and politics in leisure time....
+- 🔭 I’m currently working on ... SAP CPI, SAP PIPO, SAP ABAP, Python and Data Analysis Skills
+- 🌱 I’m currently learning ... SQL, R, Tableau
+- 👯 I’m looking to collaborate on ... Python and Data Science Projects
+- ⚡ Fun fact: ... I'm a thinking introvert who loves to sit on his couch and work on his skills and read about foreign relations and politics in leisure time....
 <br/>
 <b> :bar_chart: Quick Overview</b>
 <details open>
@@ -24,6 +24,8 @@
 
 #### :computer: Languages and Tools
 <p>
+<!--   <span><img alt="SAP CPI" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/sap_cpi.png" /></span> -->
+<!--   <span><img alt="SAP ABAP" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/sap_abap.jpg" /></span> -->
   <span><img alt="Python" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/python.svg" /></span>
   <span><img alt="Numpy" width="50px" height="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/numpy.svg" /></span>
   <span><img alt="Pandas" width="50px" height="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/pandas.svg" /></span>
@@ -33,6 +35,6 @@
   <span><img alt="Jupyter Notebook" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/jupyter.svg" /></span>
   <span><img alt="MySql" width="50px" height="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/mysql.svg" /></span>
   <span><img alt="PostreSql" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/postgresql.svg" /></span>
-  <span><img alt="Django" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/django.svg" /></span>
-  <span><img alt="Flask" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/flask.svg" /></span>
+  <!-- <span><img alt="Django" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/django.svg" /></span> -->
+  <!-- <span><img alt="Flask" width="50px" src="https://raw.githubusercontent.com/dev-sandarbh/dev-sandarbh/master/flask.svg" /></span> -->
 </p>
